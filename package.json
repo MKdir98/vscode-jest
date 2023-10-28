@@ -1,5 +1,10 @@
 {
   "name": "vscode-jest",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/mk_dir98/",
+    "directory": "vscode-jest",
+    "access": "public"
+  },
   "displayName": "Jest",
   "description": "Use Facebook's Jest With Pleasure.",
   "version": "6.0.2",
