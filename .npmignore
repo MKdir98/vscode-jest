@@ -1,0 +1,11 @@
+# Ignore files and directories
+node_modules/
+dist/
+build/
+test/
+*.log
+
+# Include specific files or directories
+!src/
+!package.json
+!README.md
